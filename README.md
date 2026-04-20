@@ -281,10 +281,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Akshay Sharma**
 
-- 🌐 Portfolio: [yahska-amrahs.vercel.app](https://yahska-amrahs.vercel.app/)
-- 💼 LinkedIn: Connect on LinkedIn
+- 🌐 Portfolio: [akshaykumarsharma.in](https://akshaykumarsharma.in/)
+- 💼 LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/akshaykumar-sharma-b803a6264/)
 - 🐙 GitHub: [@yahskamrahs](https://github.com/yahskamrahs)
-- 🌐 Personal Website: [yahskamrahs.github.io](https://yahskamrahs.github.io/personal/)
 
 ---
 
