@@ -37,15 +37,10 @@ A smart document management system inspired by ChatGPT, where users can securely
 
 ### 🔐 Login Page
 
-![Image](https://images.openai.com/static-rsc-4/TwuzgwjruxEdKuhJNztQHGpftGRaCQMnzkHXjIw8gIyBCXFWbP6pr9pe5P-LypLGOEKH1LcOsmrOaM0RfL-hXlAzpLexloxVmS7U6UTb7bkxWGaMLAdLmMoOKK9DVLeOb3f5OhuIp2kRiPhm8P_xIzfDd5CLzzr1WgkvhG8vXWhMY8hLun9xe1Qvs8bCvlwH?purpose=fullsize)
+![Image](icon/login.png)
 
-![Image](https://images.openai.com/static-rsc-4/315s4g7LvNpr-NK7JMI6iTEbbtPokNjXihLyrPQFvpnx5yi8Euk1UDY9vnqyV9nT7mlHLzWuqRhXq_f0A4V8Kw89h2Tf7dtvqiEtNd9rWAQE2TyqRq2rI_8lUWKlXYCnGvgF7Pyw0yyHHdPeKeu24eTfDcjU8L_LEstoqBXsE4p02FWtApD0zX0hkxFdhybH?purpose=fullsize)
+![Image](icon/chatinterface.png)
 
-![Image](https://images.openai.com/static-rsc-4/HPLoNU5UH1S_07q0ftrtWBrdo9BW2V8OP2cYgM1BFAJ7A26VGFIlBLN5BS11jDxZUJhSh9dn9MjfsJaCD3xokgDltUKr7FAZFVY-ZfiYu1oHbGLtttvep37D9Swl5JDfQWfGk35FXNg_ZdQarTdoKRxqu0B50o3OwZcFuGRtwzCDKexYRfEqwj_lapXS76Lb?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/p0HyPQIUtVU-YkFzfMDcQsdJOoE5MHYzIPB4n-4rjMQaTcUDZWojKvtChj35K1GCFfqm_xg0ScPaxqD6L41MGSKBbMWhCiuzOWyH0uNwi7Wkyu2YqFthNJBCBhFIdGL5_eSHlD3dEoeD1d-nkCBDlPbEf3SyQYTKQVveDhT5TH5i4THCmoupi9MZ3RoESXph?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/DLjtHmHa3b9KQQQVTdCp4htNAYp_Tuo3SgUQFQRSEl7DqZ7hbyDbPPVmQrncGBg7P2BEQicltORlw4iouVlLHTDxeyBLlygC6MZGGME13lDNSHgoRjfPTq2li5T1q9l08ss-LkdjvUktVCTiG0fYZ2iT7fT1gE5Bexs1tz7AS8DQrwc3SlQZ1K6KLJW2KqKr?purpose=fullsize)
 
 ---
 
@@ -56,8 +51,8 @@ A smart document management system inspired by ChatGPT, where users can securely
 ## 🛠️ Tech Stack
 
 * **Frontend:** HTML, CSS, JavaScript
-* **Backend:** Python / Django
-* **Database:** SQLite / PostgreSQL
+* **Backend:** Node.js
+* **Database:** MySQL
 * **Deployment:** Vercel
 
 ---
@@ -76,23 +71,6 @@ A smart document management system inspired by ChatGPT, where users can securely
 
 ---
 
-## ⚙️ Installation & Setup
-
-```bash
-# Clone the repository
-git clone https://github.com/yahskamrahs/ChatGPT-Inspired-Documents-Storing.git
-
-# Navigate into the project
-cd ChatGPT-Inspired-Documents-Storing
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the server
-python manage.py runserver
-```
-
----
 
 ## 📌 Future Improvements
 
